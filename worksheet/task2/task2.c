@@ -5,7 +5,8 @@
  * Name:
  * ID: 
  */
-
+#include <stdio.h>
+#include <string.h>
 int main(void){
     long decimal = 0;
     char hex[9];
